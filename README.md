@@ -1,2 +1,2 @@
-# Blockgames
+# Contract address
 0xFc98C5108A7f29bDc7596346EdA5091EC4c40965
